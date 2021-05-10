@@ -27,8 +27,8 @@ h2{
     justify-content: space-around;
     text-align: center;
 }
-.day,.hour,.minute,.second{
-    font-size: 3rem;
+.year,.month,.week,.day,.hour,.minute,.second{
+    font-size: 2rem;
 }
 
 .waiting{
